@@ -1,4 +1,4 @@
-# Call Guard AI — Real‑time Scam Call Detection
+# Call Guard AI — Real‑time Scam Call Detection 
 
 Call Guard AI is an Android app that analyzes call audio in short chunks, transcribes it (STT), then scores scam risk using an LLM-style endpoint, and shows the result in floating overlay widgets during/after analysis. [file:1]
 
