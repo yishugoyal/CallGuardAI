@@ -1,4 +1,4 @@
-export default {
+export default { 
   async fetch(request, env) {
     // ✅ CORS
     if (request.method === "OPTIONS") {
