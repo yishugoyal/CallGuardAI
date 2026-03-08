@@ -1,5 +1,5 @@
 import requests
-import urllib.parse
+import urllib.parse 
 
 STT_API_URL = "https://stt.apkadadyy.workers.dev/"
 LLAMA_API_URL = "https://llama.apkadadyy.workers.dev/?q="
